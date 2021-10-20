@@ -3,7 +3,7 @@ csvw-validator
 csvw-validator is java implementation of W3C CSV on the Web validator.
 
 ## Requirements
-Java - version 8 (higher versions should be compatible, but are not tested)
+Java - version 8 - 15. Java 16+ not working.
 
 Maven - version 3.3.9+
 
